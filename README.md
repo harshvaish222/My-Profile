@@ -8,7 +8,29 @@
 
 ###
 
-<p align="left">I'm Harsh Vaish, look at [My Portfolio](https://harshvaish222.github.io/)<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Backend Development<br>- 🤩I am also a Machine Learning Enthusiast<br>-⚡ In my free time I study novels to improve verbal knowledge.</p>
+<h1 align="left">Hi 👋, I'm Harsh Vaish</h1>
+
+<p align="left">
+🌐 <b>Explore my work:</b> <a href="https://harshvaish222.github.io/">My Portfolio</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working as a **Web Developer**
+- 📚 Learning and building skills in **Backend Development**
+- 🤖 Passionate **Machine Learning Enthusiast**
+- ⚡ I enjoy reading novels to improve my communication and verbal skills
+
+---
+
+### 🚀 Connect with Me
+
+- 💼 GitHub: [harshvaish222](https://github.com/harshvaish222)
+- 🌐 Portfolio: [Visit Here](https://harshvaish222.github.io/)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_vaish___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-vaish-554416255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshVaish222) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvaish222@gmail.com) 
